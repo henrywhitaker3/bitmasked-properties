@@ -1,6 +1,6 @@
 # Bitmasked Properties
 
-This library provides a trait to use bitmasked properties with PHP 8.1 enums. I was reading [this](https://aaronfrancis.com/2021/bitmasking-in-laravel-and-mysql) and could think a few different places where this would be useful for me, so I decided to make this library to make it a bit more re-usable; it also felt like a good way to start playing around with PHP 8.1 enums, so yeah.
+This library provides a trait to use bitmasked properties with PHP 8.1 enums. I was reading [this](https://aaronfrancis.com/2021/bitmasking-in-laravel-and-mysql) and could think a few different places where this would be useful for me, so I decided to make this library to make it a bit more re-usable; it also felt like a good way to start playing around with PHP 8.1 enums.
 
 ## Installation
 
